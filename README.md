@@ -1,5 +1,3 @@
-# Excel-Data-Analysis-PivotTables-Slicers-PivotCharts-Data-Cleaning
-
 # Excel Data Analysis – PivotTables, Slicers, PivotCharts & Data Cleaning
 
 ## 📊 Overview
